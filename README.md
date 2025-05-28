@@ -27,6 +27,8 @@ I'm an enthusiastic iOS Developer and Mobile App Developer passionate about buil
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khirish-meshram/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15716725/khirish)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/khirish)
 
 ---
 
